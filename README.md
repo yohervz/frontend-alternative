@@ -1,7 +1,22 @@
 # frontend-alternative
 
-No pude realizar el reto por medio de NPM dado que mi computadora es muy antigua y a consecuencia mi sistema operativo igual y las herramientas eran incompatible con mi versión de NodeJS (Tengo un Pentium con 2GB en un equipo con Windows 7 y no puedo montarle Linux por un proyecto de la universidad)
+## Propósito
 
-Pero reescribí en otra carpeta lo que pidieron realizar en el reto y emule el comportamiento que tendría la API en el código Javascript, no es el más idiomatico, pero logré que funcionará con la estructura propuesta.
+Este documento técnico tiene como objetivo proporcionar información detallada sobre el repositorio frontend-alternative, creado con el fin de superar un reto y ganar una beca en Platzi durante 6 meses.
 
-Si cuenta, sería espectacular estudiar con ustedes. Gracias por leerme <3
+## Funcionalidades
+
+El repositorio incluye siguientes:
+
+- Un CV contruido por medio de pruebas unitarias ([Repositorio original](https://github.com/yohervz/frontend)) y luego transcrito a un archivo JSX
+- Utilización de un archivo JSON para la emulación de APIs.
+
+## Requisitos técnicos
+
+Para utilizar el repositorio , se requiere lo siguiente:
+
+- Un navegador Web
+
+## Licencia
+
+El repositorio CV-React está bajo la licencia MIT. Para obtener más información, consulta el archivo LICENSE.md.
